@@ -9,6 +9,7 @@ Reddit: https://www.reddit.com/r/Lite3DP/ <br>
 
 --- 
 <!--toc-start-->
+* [FAQs](#FAQs)
 * [Lite3DP-S1](#Lite3DP-S1)
   * [Lite3DP](#Lite3DP)
   * [Features](#Features)
