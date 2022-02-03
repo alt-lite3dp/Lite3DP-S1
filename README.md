@@ -20,6 +20,7 @@ Reddit: https://www.reddit.com/r/Lite3DP/ <br>
   * [Lite3DP Components](#Lite3DP-Components)
   * [Specifications](#Specifications)
   * [Proudly Open Source](#Proudly-Open-Source)
+  * [Copyright](#Lite3DP-S1)
   * [Links](#Links)
 <!--toc-end-->
 ---
@@ -119,6 +120,28 @@ Instagram: https://www.instagram.com/lite.3dp/ <br>
 Online simulator: https://www.lite3dp.com/sim.html?i=1 <br>
 Chitubox: https://www.chitubox.com/ <br>
 Crowdsupply: https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer <br>
+
+### Lite3DP-S1
+
+Copyright (c) 2020, Lite3DP.com
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 
 ###### _source of info:_ https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer _(edited)_ <br>
