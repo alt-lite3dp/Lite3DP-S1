@@ -20,7 +20,7 @@ Reddit: https://www.reddit.com/r/Lite3DP/ <br>
   * [Lite3DP Components](#Lite3DP-Components)
   * [Specifications](#Specifications)
   * [Proudly Open Source](#Proudly-Open-Source)
-  * [Copyright](#Lite3DP-S1)
+  * [Copyright/License](#Lite3DP-S1)
   * [Links](#Links)
 <!--toc-end-->
 ---
