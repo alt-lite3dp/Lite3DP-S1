@@ -144,5 +144,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
-###### _source of info:_ https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer _(edited)_ <br>
+###### _source of info:_ https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer , https://github.com/Lite3DP/Lite3DP-S1 <br>
 ###### _source of image:_ https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer https://www.crowdsupply.com/img/2563/lite3dp-side-03-1_png_md-xl.jpg <br>
