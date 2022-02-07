@@ -1,4 +1,5 @@
 # Lite3DP-S1 - A miniature mSLA DLP 3D Printer
+
 <p align="left">
   <img src="https://user-images.githubusercontent.com/68892483/150651446-4456bc5a-e50d-4143-ba2c-4bfc18bcaca5.jpg" alt="Lite3DP-S1" height="50%" width="50%">
 </p>
@@ -8,7 +9,7 @@ Crowdsupply: https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer <br>
 Reddit: https://www.reddit.com/r/Lite3DP/ <br>
 
 --- 
-<!--toc-start-->
+
 * [FAQs](#FAQs)
 * [Lite3DP-S1](#Lite3DP-S1)
   * [Lite3DP](#Lite3DP)
@@ -22,8 +23,19 @@ Reddit: https://www.reddit.com/r/Lite3DP/ <br>
   * [Proudly Open Source](#Proudly-Open-Source)
   * [Copyright/License](#Lite3DP-S1)
   * [Links](#Links)
-<!--toc-end-->
+
 ---
+
+
+Welcome to Lite3DP-S1.
+
+- [Lite3DP-S1 - A miniature mSLA DLP 3D Printer](#lite3dp-s1---a-miniature-msla-dlp-3d-printer)
+  - [FAQs](#faqs)
+    - [SD Card is not recognized](#sd-card-is-not-recognized)
+    - [My printer just prints blobs / My base is a complete blob and failed the rest of the print](#my-printer-just-prints-blobs--my-base-is-a-complete-blob-and-failed-the-rest-of-the-print)
+- [Lite3DP-S1 Original Copyright Notice](#lite3dp-s1-original-copyright-notice)
+
+
 ## FAQs
 
 ### SD Card is not recognized
@@ -43,6 +55,7 @@ Every resin, even refills, needs to be calibrated on a per printer basis. The Li
 We have seen a number of the UV LEDs that are "too focused", especially from Mouser.com kits. What this means is that the light shines too brightly, all focused in the middle of the LCD. You can test this by placing a UV reactive piece of paper (most ink-jet printer paper should work) over the LCD to test the LCD pattern. You should see a wide UV light source, filling the paper edge to edge with no harsh focus in the middle.
 
 If you do see a center area highly focused of UV lights, then most likely you need to diffuse the UV LED to get it to spread out. The community has come up with some `patches` to resolve this. See [this reddit post](https://www.reddit.com/r/Lite3DP/comments/sa4k2z/a_makers_effort_to_patch_the_lite3dps1_to_working/) or matching discord threads [here](https://discord.com/channels/898581358258049095/899086165574037514/934479437746020445) and [here](https://discord.com/channels/898581358258049095/898589927049166899/936603955193065473).
+
 
 ---
 ## Lite3DP
@@ -123,6 +136,9 @@ Crowdsupply: https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer <br>
 
 ### Lite3DP-S1
 
+# Lite3DP-S1 Original Copyright Notice
+
+
 Copyright (c) 2020, Lite3DP.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -144,5 +160,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 
+
 ###### _source of info:_ https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer , https://github.com/Lite3DP/Lite3DP-S1 <br>
 ###### _source of image:_ https://www.crowdsupply.com/lite3dp/lite3dp-3d-printer https://www.crowdsupply.com/img/2563/lite3dp-side-03-1_png_md-xl.jpg <br>
+=======
+For additional information, please visit: <https://lite3dp.com/download.html>
+
+Visit for instructions: <https://www.instructables.com/Lite3DP-S1-MSLA-3D-Printer-Arduino-Based-and-Open-/>
