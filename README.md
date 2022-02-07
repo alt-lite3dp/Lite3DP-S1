@@ -61,7 +61,7 @@ Utilizes a precision linear guide
 Features a magnetic attachment system on the tray and platform (a single manual knob for its preparation)
 Works autonomously with a microSD card
 Is well-documented and open source
-Using the Printer
+## Using the Printer
 
 ### File Preparation:
 Once you’ve designed your model, it can be prepared for printing using the [CHITUBOX utility](https://www.chitubox.com/). CHITUBOX slices your model into separate images for each print layer, which are then formatted to be read by the machine and uploaded to a microSD card by the Lite3DP Converter application.
